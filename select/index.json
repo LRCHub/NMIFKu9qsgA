@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Behind the Lie",
+  "base_artist": "Surface 2 Air",
+  "createdAt": "2026-03-05T12:08:43.459967Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Behind The Lie",
+      "artist": "Bloodwork",
+      "has_synced": false,
+      "path": "select/01_Behind_The_Lie_Bloodwork.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Behind The Lie",
+      "artist": "Surface 2 Air",
+      "has_synced": false,
+      "path": "select/02_Behind_The_Lie_Surface_2_Air.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Behind the Lie",
+      "artist": "Cemetery Skyline",
+      "has_synced": false,
+      "path": "select/03_Behind_the_Lie_Cemetery_Skyline.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Behind The Lie",
+      "artist": "Surface 2 Air",
+      "has_synced": false,
+      "path": "select/pl_01_Behind_The_Lie_Surface_2_Air.txt"
+    }
+  ]
+}
