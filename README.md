@@ -1,0 +1,34 @@
+# Surface 2 Air – Behind the Lie
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Another tragedy has left you devastated
+In a state of hating what you can't see or what you don't believe.
+The question lingers and your mind just can't figure out
+Why our flame keeps burning on,
+When all of us share the same wounds that bleed.
+
+Don't walk away this time tonight.
+You know, you'll never find the answer if you don't kill the noise inside.
+Don't walk away this time tonight, the answer you will find.
+Just take a walk, it's waiting behind the lie.
+
+You long for that deafening whisper to call your name,
+To relieve the suffering in your mind.
+It isn't too late to find out, in silence, the quiet rings out.
+It isn't too late, it's never too late. please come back.
+
+Don't walk away this time tonight.
+You know, you'll never find the answer if you don't kill the noise inside.
+Don't walk away this time tonight, the answer you will find.
+Just take a walk with me here behind the lie.
+
+It'll be alright. everything is going to be alright.
+Love is waiting. (don't be afraid, just jump right in. embrace this.)
+
+Just wait, be still, you'll find out why you haven't heard replies
+From letters that you've sent with tears when you cried.
+Don't walk away this time tonight, cuz you'll get your replies.
+The answer you've been dying to hear inside.
+```
